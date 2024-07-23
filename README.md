@@ -4,12 +4,11 @@ A simple Tic Tac Toe game created using HTML, CSS, and JavaScript.
 
 ## Description
 
-This project is a web-based Tic Tac Toe game that allows two players to play the classic game of Tic Tac Toe. The game includes a responsive design, interactive gameplay, and is styled using CSS.
+This project is a web-based Tic Tac Toe game that allows two players to play the classic game of Tic Tac Toe. This game includes interactive gameplay, and is styled using CSS. I created this project while iam learning JavaScript. It provides a good hands-on experience with JavaScript, including event listeners and DOM manipulation.
 
 ## Features
 
 - Two-player gameplay
-- Interactive and responsive design
 - Highlights the winning combination
 - Displays the winner or a tie at the end of the game
 - Reset option which is used to start new game
